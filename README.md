@@ -6,12 +6,7 @@
     src="https://octodex.github.com/images/hula_loop_octodex03.gif">
     <br>
 
-  <div>• Tenho 23 anos, sou natural do 🌵 Rio Grande do Norte e atualmente moro em 🏙️ São Paulo.
-
-  💡 Sou apaixonada por aprender coisas novas, e foi justamente essa curiosidade que me levou ao mundo da tecnologia, durante o curso técnico em informática que concluí em 2023 pela Etec   Juscelino Kubistchek de Oliveira.
-
-  💻 Desde então, me encantei pelo desenvolvimento de sistemas e atualmente estou focada nos estudos de Front-End, explorando tecnologias que somam e fortalecem meu conhecimento dia após   dia.
-
+  <div>
   ✨ Estou em constante aprendizado e construindo meu caminho na área com dedicação e entusiasmo.
   Espero que goste da minha home!😊</div>
   
