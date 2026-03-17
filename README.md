@@ -10,6 +10,7 @@
  💻 Desenvolvedora em construção, movida por curiosidade e café ☕
 Transformando ideias em código (e bugs em aprendizado 😅).
 🎀 Apaixonada por tecnologia, IA e tudo que envolve criar soluções que facilitam a vida.
+    
 🚀 Atualmente explorando novas ferramentas, melhorando minhas habilidades e construindo projetos que fazem sentido
 📚 Sempre aprendendo algo novo — porque parar não é uma opção
 🌍 Entre um commit e outro, tentando deixar o mundo (e o código) um pouquinho melhor.</div>
