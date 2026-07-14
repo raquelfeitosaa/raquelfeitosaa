@@ -33,7 +33,11 @@ Transformando ideias em código (e bugs em aprendizado 😅).
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  •
   <img width="50px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  •
+  <img width="50px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 </div>
+          
 
 ---
 
