@@ -28,7 +28,7 @@ Transformando ideias em código (e bugs em aprendizado 😅).
   <img width="55px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />  •
   <img width="45px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />  •
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />  • 
   <img width="45px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  •
   <img width="50px"
@@ -36,6 +36,9 @@ Transformando ideias em código (e bugs em aprendizado 😅).
   •
   <img width="50px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  •
+  <img width="50px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </div>
           
 
